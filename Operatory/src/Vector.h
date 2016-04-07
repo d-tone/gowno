@@ -15,7 +15,7 @@ public:
 	float x;
 	float y;
 
-	Vector();
+	Vector();as
 	virtual ~Vector();
 
 //	Vector& operator >> (std::istream& stream) {
